@@ -1,4 +1,4 @@
-package com.example.qiblafinder.ui.theme
+package com.znazmul.qiblafinder.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

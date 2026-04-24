@@ -1,4 +1,4 @@
-package com.example.qiblafinder
+package com.znazmul.qiblafinder
 
 import android.Manifest
 import android.content.Context

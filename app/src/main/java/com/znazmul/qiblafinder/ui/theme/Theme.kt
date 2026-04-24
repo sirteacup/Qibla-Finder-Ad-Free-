@@ -1,4 +1,4 @@
-package com.example.qiblafinder.ui.theme
+package com.znazmul.qiblafinder.ui.theme
 
 import android.app.Activity
 import android.os.Build

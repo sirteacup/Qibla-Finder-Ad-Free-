@@ -20,7 +20,7 @@
 -keep class android.hardware.** { *; }
 
 # Keep app's own classes (safe baseline — R8 will still optimize internals)
--keep class com.example.qiblafinder.** { *; }
+-keep class com.znazmul.qiblafinder.** { *; }
 
 # Kotlin coroutines
 -keepclassmembernames class kotlinx.** {

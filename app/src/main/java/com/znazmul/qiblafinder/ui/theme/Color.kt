@@ -1,4 +1,4 @@
-package com.example.qiblafinder.ui.theme
+package com.znazmul.qiblafinder.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
